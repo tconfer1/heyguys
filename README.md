@@ -11,3 +11,5 @@ A logo created for a future webpage
 assigning values to two variables, adding them together into a third variable, and outputting the result
 # TaylorFlowerClass.pdf 
 class diagram to represent the possible attributes and methods of a Flower class
+# NetworkDesign.png
+Creating a network diagram utilizing star topology 
